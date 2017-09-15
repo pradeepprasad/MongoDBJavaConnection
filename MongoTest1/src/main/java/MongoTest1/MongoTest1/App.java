@@ -36,6 +36,7 @@ public class App {
         } finally {
         	System.out.println("Collection print Ends here");
             cursor.close();
+            mongoClient.close();
         }
              
 }
