@@ -1,4 +1,4 @@
-package MongoTest1.MongoTest1;
+package MongoTest.JavaClient;
 
 import com.mongodb.MongoClient;
 import com.mongodb.client.MongoCollection;
