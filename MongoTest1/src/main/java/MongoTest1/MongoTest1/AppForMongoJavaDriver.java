@@ -10,7 +10,7 @@ import org.bson.Document;
  * Java + MongoDB  Example
  *
  */
-public class App {
+public class AppForMongoJavaDriver {
 	public static void main(final String[] args) {
 		// Establish connection
         MongoClient mongoClient = new MongoClient( "localhost" , 27017 );
